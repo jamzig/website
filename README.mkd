@@ -1,0 +1,17 @@
+# Jam Zig Client Website
+
+This repository contains the source code for the Jam Zig Client website. The website provides information about the Jam Zig Client project, which is currently under private development.
+
+## Features
+
+- Terminal-like interface with a hacker/Web3 aesthetic.
+- Responsive design that adapts to different screen sizes.
+- Information about the project's development status and contact details.
+
+## Development
+
+The website is built using HTML and CSS, with a focus on creating a terminal-like user interface. The design is intentionally minimalistic and reminiscent of old-school computer terminals, aligning with the project's tech-savvy nature.
+
+## Contact
+
+For more information about the Jam Zig Client project, please use the contact information provided on the website.
